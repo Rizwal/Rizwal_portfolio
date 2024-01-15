@@ -35,7 +35,9 @@ Integrated results into a web app using Pickle and Streamlit for seamless predic
 Identified key movie tags using NLP techniques such as nltk and developed a similarity algorithm for personalized recommendations
 
 # Contact Me :
--Contact Number : 9622248488
--Gmail : abrolrizwal25@gmail.com
--[LinkedIn](https://www.linkedin.com/in/rizwal-abrol007/)
+Contact Number : 9622248488
+---
+Gmail : abrolrizwal25@gmail.com
+---
+[LinkedIn](https://www.linkedin.com/in/rizwal-abrol007/)
 
