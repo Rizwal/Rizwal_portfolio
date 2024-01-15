@@ -1,6 +1,8 @@
 # Rizwal_portfolio
 Data Science Protfolio
 
+![toresume-fotor-20230812222332](https://github.com/Rizwal/Rizwal_portfolio/assets/87907843/a88075d9-51f0-4c12-bbad-94205116b2d5)
+
 # About Me
 Hi my name is Rizwal Abrol and I am currently pursuing B.Tech in Electronics and Communication at Shri Mata Vaishno Devi University in India. Interested in IoT, Data analytics and Data Science and looking forward to enhance my skills in these respective fields.
 
@@ -31,4 +33,9 @@ Integrated results into a web app using Pickle and Streamlit for seamless predic
 # [Project 3 : Movie Recommender System](https://github.com/Rizwal/Movie-Recommender-System)
 Implemented a movie recommender system using Kaggle's movie dataset, preprocessing data with Pandas and NumPy, and converting it to numerical vectors with sklearn. 
 Identified key movie tags using NLP techniques such as nltk and developed a similarity algorithm for personalized recommendations
+
+# Contact Me :
+Contact Number : 9622248488
+Gmail : abrolrizwal25@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rizwal-abrol007/)
 
