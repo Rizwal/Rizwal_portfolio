@@ -1,4 +1,4 @@
-# Rizwal_portfolio
+# Welcome
 Data Science Protfolio
 
 ![toresume-fotor-20230812222332](https://github.com/Rizwal/Rizwal_portfolio/assets/87907843/a88075d9-51f0-4c12-bbad-94205116b2d5)
@@ -25,17 +25,17 @@ The results were then integrated into a web app using Pickle and Streamlit, prov
 [Click to go to webapp](https://early-stage-diabetes-prediction.streamlit.app/)
  
 # [Project 2 : Predictive Maintenance System](https://github.com/Rizwal/Predictive_Maintenance_Model)
-Implemented a Predictive Maintenance model leveraging Random Forest, Logistic Regression, SVC, and ANN models to predictmachine failure based on parameters like torque, RPM etc. 
+-Implemented a Predictive Maintenance model leveraging Random Forest, Logistic Regression, SVC, and ANN models to predictmachine failure based on parameters like torque, RPM etc. 
 Achieving an impressive 98.59% accuracy with 0.03 error, the Support Vector Classifier (SVC) stood out.
 Integrated results into a web app using Pickle and Streamlit for seamless predictions.
 [Click to go to webapp](https://predictivemaintainencemodel.streamlit.app/)
 
 # [Project 3 : Movie Recommender System](https://github.com/Rizwal/Movie-Recommender-System)
-Implemented a movie recommender system using Kaggle's movie dataset, preprocessing data with Pandas and NumPy, and converting it to numerical vectors with sklearn. 
+-Implemented a movie recommender system using Kaggle's movie dataset, preprocessing data with Pandas and NumPy, and converting it to numerical vectors with sklearn. 
 Identified key movie tags using NLP techniques such as nltk and developed a similarity algorithm for personalized recommendations
 
 # Contact Me :
-Contact Number : 9622248488
-Gmail : abrolrizwal25@gmail.com
-[LinkedIn](https://www.linkedin.com/in/rizwal-abrol007/)
+-Contact Number : 9622248488
+-Gmail : abrolrizwal25@gmail.com
+-[LinkedIn](https://www.linkedin.com/in/rizwal-abrol007/)
 
