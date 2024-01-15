@@ -2,20 +2,19 @@
 Data Science Protfolio
 
 # About Me
-![togo__2_-removebg-preview](https://github.com/Rizwal/Rizwal_portfolio/assets/87907843/5a929c43-0376-467b-b0de-910184fb9a8c)
 Hi my name is Rizwal Abrol and I am currently pursuing B.Tech in Electronics and Communication at Shri Mata Vaishno Devi University in India. Interested in IoT, Data analytics and Data Science and looking forward to enhance my skills in these respective fields.
 
 # Skills
-## PROGRAMMING LANGUAGES 
+**PROGRAMMING LANGUAGES** 
 -Python, SQL, C++
 
-## SOFTWARE 
+**SOFTWARE** 
 Excel, Tableau, Aurdino IDE, Cadence Virtuoso
 
-## DATA SCIENCE 
+**DATA SCIENCE** 
 Data Analysis, Web Scraping, Statistics, Machine Learning, Computer Vision , NLP
 
-## LIBRARIES 
+**LIBRARIES** 
 Pandas, Numpy, SciKit-Learn, Matplotlib, Selenium, Seaborn, OpenCV
 
 # [Project 1 : Early Stage Diabetes Prediction Model](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction)
